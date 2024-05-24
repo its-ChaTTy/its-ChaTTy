@@ -4,7 +4,7 @@
         <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTd3a3BmMDR4OTg1Z2l4ODcwcjRubzFpY3duaGp6dGVyMmxkenA4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4JpvyNYuyf0aI/giphy.gif" width="100" height="100"></td>
         <td>
             🗺️ I belong to Uttar Pradesh, India.<br>
-            🏫 Pursuing a B.Tech in Computer Science at Shiv Nadar University. <br>
+            🏫 Pursuing a B.Tech in Computer Science at SNU. <br>
             💬 Let's discuss about Stocks & Crypto.<br>
             ✈️ I like travelling a lot.
         </td>
